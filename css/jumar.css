@@ -1,0 +1,38 @@
+body {
+    background: #3DACB7 url("../img/background.jpg") top center no-repeat;
+    background-size: 100%;
+    color: #fff;
+    font-family: 'fontJumar';
+    font-size: 20px;
+}
+h1, h2, h3 {
+    margin: 0;
+    font-family: 'fontJumar';
+}
+a {
+    color: #fff;
+}
+a:hover {
+    text-decoration: none;
+}
+.txt-center {
+    text-align: center;
+}
+.logo {
+    display: inline-block;
+    margin: 0 auto;
+    width: 40%;
+}
+.marca-texto {
+    background: #1C498F;
+    padding: 5px 10px;
+}
+.padding-top-100 {
+    padding-top: 100px;
+}
+.padding-top-50 {
+    padding-top: 50px;
+}
+.inline-block {
+    display: inline-block;
+}
